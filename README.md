@@ -14,8 +14,8 @@ Client projects from CentraleSupélec's AI track. Each README covers the busines
 | Project | What | Highlights |
 |---|---|---|
 | [**Luxury demand forecasting**](https://github.com/USERNAME/luxury-demand-forecasting-tft) | Weekly sales forecasts per SKU × country for a luxury group, using Temporal Fusion Transformers | Accuracy 55% → 85–90% vs. baseline · quantile forecasts · Power BI dashboard |
-| [**Smart Chair**](https://github.com/USERNAME/smart-chair-domain-adaptation) | Personalized posture classification from a pressure mat, for CEA-List | Optimal-transport domain adaptation · root-cause analysis · autoencoder novelty detection |
-| [**Mall footfall estimation**](https://github.com/USERNAME/mall-footfall-estimation) | Footfall inference from mobile-phone pedestrian flows, for MyTraffic | Geospatial feature pipeline · regression on very small data |
+| [**Smart Chair**](https://github.com/USERNAME/smart-chair-domain-adaptation) | Personalized posture classification from a pressure mat, for CEA-List | Optimal-transport domain adaptation, clustering KMeans, DB Scan |
+| [**Mall footfall estimation**](https://github.com/USERNAME/mall-footfall-estimation) | Footfall inference from mobile-phone pedestrian flows, for MyTraffic | Geospatial feature pipeline, regression on very small data |
  
 ## Professional experience (confidential, no code)
  

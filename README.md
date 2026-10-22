@@ -1,6 +1,6 @@
 # Ethan Bitton
  
-**Data Scientist & AI builder**, CentraleSupélec (AI major) × ESSEC Business School.
+**Data Scientist & AI Engineer**, CentraleSupélec (AI major) × ESSEC Business School.
 
  
 [LinkedIn](https://www.linkedin.com/in/ethan-bitton-07903624a/) · ethan.bitton@gmail.com
